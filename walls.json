@@ -96,13 +96,7 @@
             "author":"Unsplash",
             "url":"https://raw.githubusercontent.com/ajemvuma/astriod/master/muaythai.jpg",
             "downloadable":"false"
-        },
-        {
-            "name":"iPhone 6",
-            "author":"vumatech",
-            "url":"https://raw.githubusercontent.com/wearemetodix/Walls/master/sesst.png",
-            "collections":"Samsung",
-            "downloadable":"false"
+        }
         }
     ]
 }
